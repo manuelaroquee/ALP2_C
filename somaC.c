@@ -10,7 +10,7 @@ int main(void){
     scanf("%d", &num2);
     
     soma = num1 + num2;
-    printf("%d", soma);
+    printf("Soma: %d", soma);
     
     return 0;
 }
