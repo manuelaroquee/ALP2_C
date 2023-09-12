@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-
+/*Programa em C para realizar a soma entre dois números;*/
 int num1, num2, soma;
 int main(void){
     
